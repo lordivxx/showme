@@ -16,7 +16,7 @@ Then:
 ### Install
 
 ```bash
-git clone <showme repo>
+git clone git@github.com:lordivxx/showme.git
 ./install-ShowMe
 ```
 
