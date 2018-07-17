@@ -1,0 +1,3 @@
+#!/bin/bash -l
+
+asciinema -t 1 
